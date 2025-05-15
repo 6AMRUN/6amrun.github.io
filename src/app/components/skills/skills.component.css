@@ -1,0 +1,17 @@
+h3 {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+.skills-data {
+    text-align: center;
+}
+
+.row {
+    text-align: center;
+    margin: auto;
+    width: 65%;
+}
